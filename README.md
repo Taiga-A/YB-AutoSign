@@ -95,7 +95,7 @@ $ python main.py
 7. 使用农大 `cookie` 获取验证码
 7. 使用 `numpy`库对验证码进行去噪处理，具体实现参考[岛屿的最大面积 ](https://leetcode-cn.com/problems/max-area-of-island/)  （必要 ！ 否则成功率下降 90% ）
 
-​                                               ![原图](G:\NEW\vscode\Python\study\demo-01\README\old.png)      ----处理---->    ![处理](G:\NEW\vscode\Python\study\demo-01\README\new.png)
+​                                               ![原图](https://taiga-a-1304851750.cos.ap-beijing.myqcloud.com/others/oldCode_01.png)      ----处理---->    ![处理](https://taiga-a-1304851750.cos.ap-beijing.myqcloud.com/others/newCode_01.png)
 
 
 
